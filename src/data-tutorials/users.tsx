@@ -1316,6 +1316,13 @@ const Users: User[] = [
     preview: require('./showcase/intermediate/how-to-write-unit-testing-for-smart-contracts-with-hardhat.png'),
     website: 'blog/tutorials/how-to-write-unit-testing-for-contracts-with-hardhat',
     tags: ['intermediate', 'hardhat'],
+  },  
+  {
+    title: 'Create a Full Stack Whitelist dApp with Merkle Trees on CELO',
+    description: 'Learn how you can use Merkle trees, a powerful data structure hierarchy, to efficiently verify if a particular data is part of a dataset',
+    preview: require('./showcase/advanced/tutorials/create-full-stack-whitelist-dapp-with-merkle-trees-celo.png'),
+    website: 'blog/tutorials/create-full-stack-whitelist-dapp-with-merkle-trees-celo',
+    tags: ['advanced', 'hardhat', 'celosage', 'solidity', 'angular'],
   },
   
   /*
